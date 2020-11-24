@@ -1,0 +1,28 @@
+C:\Users\GuezGuez\Desktop\ColorPicker\bin\Release\Color Picker V0.2.exe.config
+C:\Users\GuezGuez\Desktop\ColorPicker\bin\Release\Color Picker V0.2.exe
+C:\Users\GuezGuez\Desktop\ColorPicker\bin\Release\Color Picker V0.2.pdb
+C:\Users\GuezGuez\Desktop\ColorPicker\bin\Release\Color Picker V0.2.xml
+C:\Users\GuezGuez\Desktop\ColorPicker\bin\Release\Cyotek.Windows.Forms.ColorPicker.dll
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\ColorPicker.vbprojAssemblyReference.cache
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\ColorPicker.FrmMain.resources
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\ColorPicker.Resources.resources
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\ColorPicker.vbproj.GenerateResource.cache
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\ColorPicker.vbproj.CoreCompileInputs.cache
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\ColorPicker.vbproj.CopyComplete
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\Color Picker V0.2.exe
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\Color Picker V0.2.xml
+C:\Users\GuezGuez\Desktop\ColorPicker\obj\Release\Color Picker V0.2.pdb
+E:\My Projects\Visual Studio\ColorPicker\bin\Release\Color Picker V0.2.exe.config
+E:\My Projects\Visual Studio\ColorPicker\bin\Release\Color Picker V0.2.exe
+E:\My Projects\Visual Studio\ColorPicker\bin\Release\Color Picker V0.2.pdb
+E:\My Projects\Visual Studio\ColorPicker\bin\Release\Color Picker V0.2.xml
+E:\My Projects\Visual Studio\ColorPicker\bin\Release\Cyotek.Windows.Forms.ColorPicker.dll
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\ColorPicker.vbprojAssemblyReference.cache
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\ColorPicker.FrmMain.resources
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\ColorPicker.Resources.resources
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\ColorPicker.vbproj.GenerateResource.cache
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\ColorPicker.vbproj.CoreCompileInputs.cache
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\ColorPicker.vbproj.CopyComplete
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\Color Picker V0.2.exe
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\Color Picker V0.2.xml
+E:\My Projects\Visual Studio\ColorPicker\obj\Release\Color Picker V0.2.pdb
